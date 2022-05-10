@@ -1,7 +1,11 @@
 # Cryptoverse
 ##### word of Cryptocurrency
 
-cryptoverse show the news of cryptocurrencies, information details and more.
+cryptoverse show the news of cryptocurrencies, information details and more.[![Netlify Status](https://api.netlify.com/api/v1/badges/e32adb6a-9125-49cd-a84c-c8492a12ffd8/deploy-status)](https://cryptoverseplatform.netlify.app/)
+
+[Dogs social media](https://cryptoverseplatform.netlify.app/)
+
+
 
 ![image!](src/images/Vite%20App%20(1).png "home page")
 
