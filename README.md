@@ -1,9 +1,11 @@
 # Cryptoverse
 ##### word of Cryptocurrency
 
-cryptoverse show the news of cryptocurrencies, information details and more.[![Netlify Status](https://api.netlify.com/api/v1/badges/e32adb6a-9125-49cd-a84c-c8492a12ffd8/deploy-status)](https://cryptoverseplatform.netlify.app/)
+cryptoverse show the news of cryptocurrencies, information details and mo
 
-[Dogs social media](https://cryptoverseplatform.netlify.app/)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/e32adb6a-9125-49cd-a84c-c8492a12ffd8/deploy-status)](https://cryptoverseplatform.netlify.app/)
+
+[Cryptoverse](https://cryptoverseplatform.netlify.app/)
 
 
 
@@ -18,7 +20,8 @@ cryptoverse show the news of cryptocurrencies, information details and more.[![N
 6. chart-js
 7. react-chart-2
 
-**Rapid Api apis**
+**Rapid Api**
+
 [CoinRank](https://rapidapi.com/Coinranking/api/coinranking1/)
 
 [BingNews](https://rapidapi.com/microsoft-azure-org-microsoft-cognitive-services/api/bing-news-search1/)
